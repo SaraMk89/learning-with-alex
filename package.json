@@ -1,0 +1,19 @@
+{
+  "name": "learning-with-alex",
+  "version": "1.0.0",
+  "description": "this is a learning/testing project :) !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraMk89/learning-with-alex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraMk89/learning-with-alex/issues"
+  },
+  "homepage": "https://github.com/SaraMk89/learning-with-alex#readme"
+}
